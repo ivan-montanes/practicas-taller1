@@ -12,7 +12,7 @@ las secuencias de escape en un string nos permiten basicamente poder imprimir ci
 - TABULACION VERTICAL: \v
 - COMILLA SIMPLE: \'
 - COMILLA DOBLE: \"
-- BARRA DIAGONAL INVERTIDA: \\
+- BARRA DIAGONAL INVERTIDA: \\\\
 - SIGNO DE INTERROGACION LITERAL: \?
 - CARACTER ASCII EN NOTACION OCTAL: \ooo
 - CARACTER ASCII EN NOTACION HEXADECIMAL: \x hh
