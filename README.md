@@ -20,3 +20,4 @@ las secuencias de escape en un string nos permiten basicamente poder imprimir ci
 ### ¿Que sucede cuando utiliza el caracter @ antes de una cadena de texto?
 cuando se utiliza el caracter @ antes de una cadena de texto, estamos especificando que queremos que la cadena se interprete y se muestre tal como la escribimos, es decir que las secuencias de escape como \n o \t se interpretaran y mostraran literalmente, a excepcion de una secuencia de escape "" que generara una comilla doble.
 ### ¿Que sucede cuando utiliza el caracter $ antes de una cadena de texto?
+cuando se utiliza el caracter $ antes de una cadena de texto, estamos indicando que queremos obtener una cadena interpolada. la interpolacion de cadenas basicamente nos permite insertar variables dentro de una cadena, sin necesidad de hacer concatenaciones que pueden llegar a ser mas complicadas de lograr
